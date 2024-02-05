@@ -5,16 +5,17 @@
 # Open Issue or Pull Request at https://github.com/1bl4z3r/hermit-V2
 
 baseURL = "/"
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = true
 #theme = "hermit-v2"
 
-#[languages]
-#  [languages.en]
-#    title = 'CHANGE ME'
-#    [languages.en.params]
-#      homeSubtitle = "CHANGE ME"
-#    weight = 1
+[languages]
+ [languages.es]
+  title = 'AO AO ROPA ROPA'
+   [languages.en.params]
+     homeSubtitle = "Ropa de verdad."
+     weight = 1
+
 #  [languages.fr]
 #    title = 'CHANGE ME(FR)'
 #    [languages.fr.params]
