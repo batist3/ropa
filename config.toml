@@ -25,10 +25,10 @@ defaultContentLanguageInSubdir = true
 #    [languages.it.params]
 #      homeSubtitle = "CHANGE ME"
 #    weight = 3
- 
+
 languageCode = "en-us"
 
-# title = "CHANGE ME"
+title = "AO AO ROPA ROPA"
 # enableGitInfo = true
 
 pygmentsCodefences  = true
@@ -44,8 +44,8 @@ enableEmoji = true
 # disqusShortname = "CHANGE ME"
 
 [params.author]
-  name = "CHANGE SITE AUTHOR"
-  about = "CHANGE SITE AUTHOR ABOUT"
+  name = "Idalina Insfrán"
+  about = "Analist, Script Kiddie, Mother of two."
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -62,40 +62,40 @@ enableEmoji = true
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
-  # description = "CHANGE ME SITE DESCRIPTION"
+  description = "AO AO WEBSITE"
   # images = [""]
   themeColor = "#494f5c"
 
-  #homeSubtitle = "CHANGE ME HOME SUBTITLE"
-  footerCopyright = "CHANGE ME FOOTER COPYRIGHT"
+  homeSubtitle = "La ropa de verdad"
+  footerCopyright = "(c) Idalina Insfrán 2024"
   # bgImg = ""
   # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
 
-  justifyContent = false
+  justifyContent = true
 
   relatedPosts = true
   code_copy_button = true
 
   homeSubtitlePrinter = true
-  scrollToTop = true 
-  global_mathjax = false
+  scrollToTop = true
+  global_mathjax = true
   readTime = true
-  readTimeSeparator = "CHANGE ME READ TIME"
+  readTimeSeparator = ":"
   # legacyLayout = false
   shareSocial = true
   # googleTagManager = "GTM-XXXXXXXX"
-  
-  [[params.socialLinks]]
-    name = "mastodon"
-    url = "https://joinmastodon.org/"
 
   [[params.socialLinks]]
-    name = "x"
-    url = "https://twitter.com/"
+    name = "telegram"
+    url = "https://t.me.batist3/"
 
+#  [[params.socialLinks]]
+#    name = "x"
+#    url = "https://twitter.com/"
+#
   [[params.socialLinks]]
     name = "github"
-    url = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
+    url = "https://github.com/batist3"
 
 [menu]
 
